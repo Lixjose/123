@@ -25,6 +25,8 @@
     border-radius: 15px;
     max-height: 6vh;
     width: 60vw;
+    border: none;
+    filter: drop-shadow(4px 4px 4px rgba(105, 105, 105, 0.25));
 }
 
 .promosHeader
