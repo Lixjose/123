@@ -2,6 +2,7 @@
 {
     display: grid;
     grid-template-rows: 20vh 25vh;
+    width: 100%;
 }
 
 .nav
