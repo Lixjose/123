@@ -1,0 +1,45 @@
+.principalHeader
+{
+    display: grid;
+    grid-template-rows: 20vh 25vh;
+}
+
+.nav
+{
+    align-items: center;
+    background: #D9D9D9;
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+    text-align: center;
+    justify-content: center;
+}
+
+.buttonNav
+{
+    margin-top: 1rem;
+    background: #EAD461;
+    font-size: 1.5rem;
+    padding: .2rem;
+    border-radius: 15px;
+    max-height: 6vh;
+    width: 60vw;
+}
+
+.promosHeader
+{
+    background-image: url(/Assets/banner-image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 250%;
+    color: #FFFFFF;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.infoPromos
+{
+    text-shadow: 1px 1px 3px black;
+}
